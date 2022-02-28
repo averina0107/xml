@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+<summary>text</summary>
+<project>name</project>
+<severity>text</severity>
+<priority>text</priority>
+<steps>steps: [{1,2,3 ...}]</steps>
+<ar>text</ar>
+<er>text</er>
+</bug_report>
